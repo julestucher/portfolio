@@ -1,2 +1,4 @@
 name: Jules Tucher
 description: Professional data analyst portfolio
+show_download: true
+theme: jekyll-theme-minimal
