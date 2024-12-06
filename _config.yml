@@ -1,4 +1,5 @@
 name: Jules Tucher
-description: Professional data analyst portfolio
+logo : assets/img/photo.jpg
+description: Data Analyst | Data Visualization | Project Management
 show_download: true
 theme: jekyll-theme-minimal
