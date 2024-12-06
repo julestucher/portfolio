@@ -25,9 +25,3 @@ For more information, see [Resume](https://drive.google.com/file/d/168yTSwfkp4Yj
 - M.S., Data Analytics and Computational Social Science, UMass Amherst '26
 - B.A., Mathematics and Computer Science, Williams College '21
 
-## Work Experience
-
-**Veritas Preparatory Charter School**
-
-**Mathematica Policy Research**
-
