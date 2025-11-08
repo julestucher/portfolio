@@ -2,7 +2,7 @@
 
 Data Analyst with experience performing complex statistical programming across various content areas, including education, labor, and nutrition. Skilled in cleaning, wrangling, and analyzing complex data sets using Stata, R, SQL, and Python, as well as designing interactive data visualizations and dashboards in Tableau. Experienced with data systems integration and database management. Demonstrated ability to build automated reports, ensure data quality, and maintain documentation, with a strong background in research and publication. 
 
-For more information, see [Resume](https://docs.google.com/document/d/1HlT-c8sQlYlP0coPJAIrcF5R5cDvLNG4/edit?usp=sharing&ouid=101683685410566574868&rtpof=true&sd=true).
+For more information, see [Resume]([https://docs.google.com/document/d/1HlT-c8sQlYlP0coPJAIrcF5R5cDvLNG4/edit?usp=sharing&ouid=101683685410566574868&rtpof=true&sd=true](https://docs.google.com/document/d/11ntri1t9ml3cB8iSUk6vGX_4geE5jzZR/edit?usp=sharing&ouid=101683685410566574868&rtpof=true&sd=true)).
 
 ## Projects
 
