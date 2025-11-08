@@ -15,7 +15,7 @@ For more information, see [Resume](https://docs.google.com/document/d/11ntri1t9m
 - **Objective:** Explore tag usage and topic prevlance on social media platform Lex to understand what motivates users to connect with one another. Implement text analysis and network inference methods to explore research hypothesis. Build Shiny app to visualize main topic results. Developed a final poster to share results, which won Best Master's Poster at the UMass-Amherst Computational Social Science Poster Session 2025.
 - **Tools Used:** R
 - **Research Blog:** [https://julestucher.github.io/text-as-data/](https://julestucher.github.io/text-as-data/)
-- **Poster:** [here](https://julestucher.github.io/portfolio/assets/Tucher_DACSS758_DACSS790N_Poster.pdf)
+- **Poster:** [here](https://julestucher.github.io/portfolio/assets/img/poster.pdf)
 - **GitHub Repository:** [https://github.com/julestucher/text-as-data](https://github.com/julestucher/Lex-as-data/tree/main)
 
 ### ETL Pipeline for Exploring MCAS Achievement and 2024 Question 2 Election Results in Massachusetts
