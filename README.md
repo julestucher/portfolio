@@ -15,13 +15,14 @@ For more information, see [Resume](https://docs.google.com/document/d/11ntri1t9m
 - **Objective:** Explore tag usage and topic prevlance on social media platform Lex to understand what motivates users to connect with one another. Implement text analysis and network inference methods to explore research hypothesis. Build Shiny app to visualize main topic results. Developed a final poster to share results, which won Best Master's Poster at the UMass-Amherst Computational Social Science Poster Session 2025.
 - **Tools Used:** R
 - **Research Blog:** [https://julestucher.github.io/text-as-data/](https://julestucher.github.io/text-as-data/)
-- **Poster:** [here](https://julestucher.github.io/portfolio/assets/img/poster.pdf)
+- **Research Poster:** [here](https://julestucher.github.io/portfolio/assets/img/poster.pdf)
 - **GitHub Repository:** [https://github.com/julestucher/text-as-data](https://github.com/julestucher/Lex-as-data/tree/main)
 
 ### ETL Pipeline for Exploring MCAS Achievement and 2024 Question 2 Election Results in Massachusetts
-- **Objective:** Develop an ETL pipeline to extract school district outcomes from MA Department of Elementary and Secondary Education (DESE) and state question election results from the Secretary of the Commenwealth of Massachusetts. Transform data sets to create a single data set for analysis. Create interactive visualization for analysis. Developed as a final project for DACSS690A: Data Engineering.
-- **Tools Used:** Python, R, PostgreSQL, SQL
+- **Objective:** Develop an ETL pipeline to extract school district outcomes from MA Department of Elementary and Secondary Education (DESE) and state question election results from the Secretary of the Commenwealth of Massachusetts. Transform data sets to create a single data set for analysis. Developed as a final project for DACSS690A: Data Engineering. Additional GIS analysis conducted to synthesize results to research question.
+- **Tools Used:** Python, R, PostgreSQL, SQL, ArcGIS
 - **GitHub Repository:** [https://github.com/julestucher/mcas-question2-etl](https://github.com/julestucher/mcas-question2-etl)
+- **Research Poster:** [here](https://julestucher.github.io/portfolio/assets/img/q2_poster.pdf)
 
 ### Impact of Information Credibility on Support for Gender Affirming Care Legislation
 - **Objective:** Analyze results of an experimental design to test the impact of factual, credible information on support for legislation proposed to ban gender affirming care for minors. Research designed and experiment conducted as part of DACSS602: Research Design.
