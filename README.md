@@ -6,11 +6,6 @@ For more information, see [Resume](https://docs.google.com/document/d/11ntri1t9m
 
 ## Projects
 
-### Predicting Home Sale Prices in Western Massachusetts
-- **Objective:** Understand trends in housing sale prices in Western Massachussetts. Collected recent home sale prices and home attributes from RentCast.io and compared the performance of three predicted machine learning models.
-- **Tools Used:** Python
-- **GitHub Repository:** [https://github.com/julestucher/wmass-housing--ml-predictions](https://github.com/julestucher/wmass-housing--ml-predictions/blob/main/data_analysis.ipynb)
-
 ### Lost Connections and Found Communities: A Computational Look at Queer Identity and Interaction on Lex in Western Massachusetts
 - **Objective:** Explore tag usage and topic prevlance on social media platform Lex to understand what motivates users to connect with one another. Implement text analysis and network inference methods to explore research hypothesis. Build Shiny app to visualize main topic results. Developed a final poster to share results, which won Best Master's Poster at the UMass-Amherst Computational Social Science Poster Session 2025.
 - **Tools Used:** R
@@ -24,10 +19,21 @@ For more information, see [Resume](https://docs.google.com/document/d/11ntri1t9m
 - **GitHub Repository:** [https://github.com/julestucher/mcas-question2-etl](https://github.com/julestucher/mcas-question2-etl)
 - **Research Poster:** [here](https://julestucher.github.io/portfolio/assets/img/q2_poster.pdf)
 
+### Replication: Relative income within the household, gender norms, and well-being
+- **Objective:** Replicate results assessing the impact of relative income on life satisfaction and health outcomes using regression discontinuity design. Replication found consistent results on the negative impact of women outearning their husbands on overall life satisfaction among heterosexual couples in Germany, but failed to replicate hetergenous effects between East and West Germany when adjusting for multiple, correlated outcomes. 
+- **Tools Used:** R, GenMatch and rdrobust packages
+- **GitHub Repository:**: [https://github.com/julestucher/gender-income-replication](https://github.com/julestucher/gender-income-replication)
+- **Final Paper:**: [here](https://github.com/julestucher/gender-income-replication/blob/main/replication_paper.pdf)
+
 ### Impact of Information Credibility on Support for Gender Affirming Care Legislation
 - **Objective:** Analyze results of an experimental design to test the impact of factual, credible information on support for legislation proposed to ban gender affirming care for minors. Research designed and experiment conducted as part of DACSS602: Research Design.
 - **Tools Used:** R
 - **GitHub Repository:** [https://github.com/julestucher/602-GACBan-Experiment](https://github.com/julestucher/602-GACBan-Experiment)
+
+### Predicting Home Sale Prices in Western Massachusetts
+- **Objective:** Understand trends in housing sale prices in Western Massachussetts. Collected recent home sale prices and home attributes from RentCast.io and compared the performance of three predicted machine learning models.
+- **Tools Used:** Python
+- **GitHub Repository:** [https://github.com/julestucher/wmass-housing--ml-predictions](https://github.com/julestucher/wmass-housing--ml-predictions/blob/main/data_analysis.ipynb)
 
 ### Teacher-student race match in California Public Schools
 - **Objective:** Honors thesis project to explore teacher-student race match in California public schools. Repository for data cleaning and analysis.
@@ -37,4 +43,3 @@ For more information, see [Resume](https://docs.google.com/document/d/11ntri1t9m
 ## Education
 - M.S., Data Analytics and Computational Social Science, UMass Amherst '26
 - B.A., Mathematics and Computer Science, Williams College '21
-
