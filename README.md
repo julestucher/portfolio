@@ -13,7 +13,7 @@ For more information, see [Resume](https://docs.google.com/document/d/11ntri1t9m
 - **Research Poster:** [here](https://julestucher.github.io/portfolio/assets/img/poster.pdf)
 - **GitHub Repository:** [https://github.com/julestucher/text-as-data](https://github.com/julestucher/Lex-as-data/tree/main)
 
-### ETL Pipeline for Exploring MCAS Achievement and 2024 Question 2 Election Results in Massachusetts
+### School Outcomes and Local Voter Support for MCAS Graduation Requirement
 - **Objective:** Develop an ETL pipeline to extract school district outcomes from MA Department of Elementary and Secondary Education (DESE) and state question election results from the Secretary of the Commenwealth of Massachusetts. Transform data sets to create a single data set for analysis. Developed as a final project for DACSS690A: Data Engineering. Additional GIS analysis conducted to synthesize results to research question.
 - **Tools Used:** Python, R, PostgreSQL, SQL, ArcGIS
 - **GitHub Repository:** [https://github.com/julestucher/mcas-question2-etl](https://github.com/julestucher/mcas-question2-etl)
